@@ -10,33 +10,33 @@ Mi objetivo es documentar todo lo que aprendo y a la vez construir un portafolio
 ## Contenido
 
 ### 📚 Notas y teoría
-- [`NOTES/`](.NOTES/) -> Resúmenes, apuntes de algoritmos, patrones de diseño y temas teóricos.
+- [`NOTES/`](NOTES/) -> Resúmenes, apuntes de algoritmos, patrones de diseño y temas teóricos.
 
 ### 🚬 Python
-- [`PYTHON/`](.PYTHON/) -> Ejericios, scripts y prácticas con Python.
+- [`PYTHON/`](PYTHON/) -> Ejericios, scripts y prácticas con Python.
 - **Básicos** -> Variables, condicionales, bucles.
 - **Intermedios** -> POO, manejo de archivos.
 - **Avanzados** -> Decoradores, generadores, etc.
 
 ### 📊 Numpy & Pandas
-- [`NUMPY_PANDAS/`](.NUMPY_PANDAS/) -> Prácticas con librerías científicas y análisis de datos.
+- [`NUMPY_PANDAS/`](NUMPY_PANDAS/) -> Prácticas con librerías científicas y análisis de datos.
 
 ### ⛮ Algoritmos
-- [`ALGORITMOS/`](.ALGORITMOS/) -> Implementaciones de algorítmos clásicos y ejercicios de entrevistas técnicas.
+- [`ALGORITMOS/`](ALGORITMOS/) -> Implementaciones de algorítmos clásicos y ejercicios de entrevistas técnicas.
 
 ### 🏗 Patrones de diseño
-- [`PATRONES/`](.PATRONES/) -> Ejemplo de patrones creacionales, estructurales y de comportamiento.
+- [`PATRONES/`](PATRONES/) -> Ejemplo de patrones creacionales, estructurales y de comportamiento.
 
 ### 🚀 Mini proyectos
-- [`MINI_PROYECTOS/`](.MINI_PROYECTOS/) -> Proyectos pequeños para aplicar lo aprendido.
+- [`MINI_PROYECTOS/`](MINI_PROYECTOS/) -> Proyectos pequeños para aplicar lo aprendido.
 
 ###  Cursos
-- [`MINI_PROYECTOS/`](.MINI_PROYECTOS/) -> Proyectos pequeños para aplicar lo aprendido.
+- [`CURSOS/`](CURSOS/) -> Cursos, notas y prácticas.
 
 ---
 
 ## Roadmap de aprendizaje
-Puedes seguir mi evolución en [`ROADMAP.md`](.ROADMAP.md), donde voy registrando mis avances mes a mes
+Puedes seguir mi evolución en [`ROADMAP.md`](ROADMAP.md), donde voy registrando mis avances mes a mes
 
 Como por ejemplo:
 ```markdown
