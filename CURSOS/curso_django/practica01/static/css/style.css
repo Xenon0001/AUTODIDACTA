@@ -1,0 +1,177 @@
+:root {
+    --primary: white;
+    --secondary: black;
+    --terciary: rgb(36, 35, 35);
+    --color_title: rgb(3, 1, 10);
+    --color_p: rgb(31, 30, 30);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    background-color: var(--primary);
+}
+
+/* GENERAl */
+
+li, a {
+    list-style: none;
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    display: flex;
+}
+
+.minh {
+    width: 90%;
+    min-height: 100vh;
+}
+
+.minw {
+    width: 100%;
+    min-height: 50vh;
+    background-color: var(--terciary);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    p {
+        color: rgba(255, 255, 255, 0.822);
+        letter-spacing: 2rem;
+    }
+}
+
+p {
+    font-size: 1.1rem;
+    color: var(--color_p);
+}
+
+.btn {
+    color: white;
+    background-color: var(--secondary);
+    padding: 1rem;
+    width: 170px;
+    text-align: center;
+}
+
+/* HEADER ============= */
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 0;
+    position: fixed;
+}
+
+.header {
+    width: 90%;
+    height: 30px;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--color_title);
+}
+
+.logo {
+    color: red;
+    font-weight: bold;
+    padding: 1rem;
+    background-color: black;
+    border: 1px solid white;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header ul {
+    justify-content: space-around;
+    width: 60%;
+}
+
+/* END HEADER ================== */
+
+/* MAIN ======================= */
+main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tophero {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+h1 {
+    font-size: 3.4rem;
+}
+
+.tophero__text {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.section img {
+    width: 500px;
+}
+
+
+.aboutme {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.about__text {
+    width: 500px;
+    text-align: end;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.about__text h2 {
+    font-size: 3rem;
+}
+
+/* END MAIN =================== */
+
+/* FOOTER ==================== */
+footer {
+    width: 100%;
+    color: white;
+    background-color: var(--secondary);
+    min-height: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+footer ul {
+    width: 70%;
+    justify-content: space-between;
+    align-items: center;
+}
+/* END FOOTER ================ */

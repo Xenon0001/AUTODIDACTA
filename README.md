@@ -30,6 +30,9 @@ Mi objetivo es documentar todo lo que aprendo y a la vez construir un portafolio
 ### 🚀 Mini proyectos
 - [`MINI_PROYECTOS/`](.MINI_PROYECTOS/) -> Proyectos pequeños para aplicar lo aprendido.
 
+###  Cursos
+- [`MINI_PROYECTOS/`](.MINI_PROYECTOS/) -> Proyectos pequeños para aplicar lo aprendido.
+
 ---
 
 ## Roadmap de aprendizaje

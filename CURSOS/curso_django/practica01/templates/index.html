@@ -1,0 +1,20 @@
+{% extends 'layouts/base.html' %}
+{% load static %}
+
+{% block content %}
+    <section class="minh tophero section">
+        <div class="tophero__text">
+            <h1>
+                Making Your Dreams <span>Come True.</span>
+            </h1>
+
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id quae ab maxime ad architecto? Corrupti, voluptas. Voluptatum eaque, nulla at.
+            </p>
+
+            <a href="{% url 'about' %}" class="btn btn__link">READ MORE</a>
+        </div>
+
+        <img src="{% static 'img/Auditoria.png' %}" alt="img_tophero">
+    </section>
+{% endblock %}

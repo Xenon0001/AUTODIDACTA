@@ -1,0 +1,24 @@
+{% extends 'layouts/base.html' %}
+{% load static %}
+
+{% block content %}
+    <section class="minw">
+        <h1>About Me</h1>
+        <p>...</p>
+    </section>
+
+    <section class="minh aboutme section">
+        <img src="{% static 'img/Auditoria.png' %}" alt="djago img">
+        <div class="about__text">
+            <h2>
+                It's just a Django Web practic. <span>What do you want to know more?.</span>
+            </h2>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit voluptatibus 
+                repellat magnam optio, cupiditate adipisci amet! Neque sit illo impedit! Quae vitae sunt deserunt velit
+                quos maiores nobis voluptatem repudiandae?
+            </p>
+            <a class="btn btn__link" href="{% url 'projects' %}">What... The projects?</a>
+        </div>
+    </section>
+{% endblock %}
