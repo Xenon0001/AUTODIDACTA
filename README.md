@@ -12,7 +12,7 @@ Mi objetivo es documentar todo lo que aprendo y a la vez construir un portafolio
 ### 📚 Notas y teoría
 - [`NOTES/`](NOTES/) -> Resúmenes, apuntes de algoritmos, patrones de diseño y temas teóricos.
 
-### 🚬 Python
+###  Python
 - [`PYTHON/`](PYTHON/) -> Ejericios, scripts y prácticas con Python.
 - **Básicos** -> Variables, condicionales, bucles.
 - **Intermedios** -> POO, manejo de archivos.
@@ -30,12 +30,12 @@ Mi objetivo es documentar todo lo que aprendo y a la vez construir un portafolio
 ### 🚀 Mini proyectos
 - [`MINI_PROYECTOS/`](MINI_PROYECTOS/) -> Proyectos pequeños para aplicar lo aprendido.
 
-###  Cursos
+###  📚 Cursos
 - [`CURSOS/`](CURSOS/) -> Cursos, notas y prácticas.
 
 ---
 
-## Roadmap de aprendizaje
+## 🗺️ Roadmap de aprendizaje
 Puedes seguir mi evolución en [`ROADMAP.md`](ROADMAP.md), donde voy registrando mis avances mes a mes
 
 Como por ejemplo:
@@ -49,7 +49,7 @@ Como por ejemplo:
 
 ---
 
-## Encuentrame en la web
+## 🌍 Encuentrame en la web
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://xenon0001.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gnail&logoColor=white)](mailto:xenonpy465@gmail.com)
