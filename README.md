@@ -12,7 +12,7 @@ Mi objetivo es documentar todo lo que aprendo y a la vez construir un portafolio
 ### 📚 Notas y teoría
 - [`NOTES/`](NOTES/) -> Resúmenes, apuntes de algoritmos, patrones de diseño y temas teóricos.
 
-###  Python
+###  🐍 Python
 - [`PYTHON/`](PYTHON/) -> Ejericios, scripts y prácticas con Python.
 - **Básicos** -> Variables, condicionales, bucles.
 - **Intermedios** -> POO, manejo de archivos.
