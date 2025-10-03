@@ -1,9 +1,9 @@
-# 📚 Curso Django - AUTODIDACTA
+# 📚 Aprendiendo Django.
 
 [![Curso de Django en YouTube](https://img.youtube.com/vi/ydlwzwOUkyE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ydlwzwOUkyE)
 
 > 🚀 Repositorio de seguimiento y notas personales del curso de **Django** que estoy siguiendo en YouTube.  
-> Forma parte de mi carpeta **CURSOS** dentro de [AUTODIDACTA](../..), mi espacio de aprendizaje y práctica.
+> Forma parte de mi carpeta **CURSOS** dentro de [AUTODIDACTA](AUTIDIDACTA), mi espacio de aprendizaje y práctica.
 
 ---
 
@@ -45,5 +45,15 @@ Puedes seguir el curso completo en YouTube en el siguiente enlace:
 
 ---
 
-✍️ *Que la curiosidad no pare **Aprende todo cuanto puedas***  
+✍️ *Que la curiosidad no pare **Aprende todo cuanto puedas***
+
+
+
+
+
+
+
+---
+
+# Notas personales ✍️.
 
