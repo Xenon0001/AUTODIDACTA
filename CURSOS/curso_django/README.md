@@ -2,8 +2,10 @@
 
 [![Curso de Django en YouTube](https://img.youtube.com/vi/ydlwzwOUkyE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ydlwzwOUkyE)
 
-> 🚀 Repositorio de seguimiento y notas personales del curso de **Django** que estoy siguiendo en YouTube.  
-> Forma parte de mi carpeta **CURSOS** dentro de [AUTODIDACTA](AUTIDIDACTA), mi espacio de aprendizaje y práctica.
+Nota 
+> "Hace un año concluí este curso, pero ahora decido volver a recorrerlo. Quiero repasarlo con calma, usando mis apuntes como guía y dejando aquí un registro ordenado de mi avance. Es una manera de seguir aprendiendo y ver con claridad cómo evoluciona mi camino."
+
+- [VER LAS NOTAS](AUTODIDACTA/NOTAS/curso_django.md)
 
 ---
 
