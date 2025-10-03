@@ -47,13 +47,15 @@ Puedes seguir el curso completo en YouTube en el siguiente enlace:
 
 ✍️ *Que la curiosidad no pare **Aprende todo cuanto puedas***
 
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
 ---
 
-# Notas personales ✍️.
-
+# Diario de progreso ✍️.
+Nota 
+> "Hace un año concluí este curso, pero ahora decido volver a recorrerlo. Quiero repasarlo con calma, usando mis apuntes como guía y dejando aquí un registro ordenado de mi avance. Es una manera de seguir aprendiendo y ver con claridad cómo evoluciona mi camino."
