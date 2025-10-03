@@ -5,7 +5,7 @@
 Nota 
 > "Hace un año concluí este curso, pero ahora decido volver a recorrerlo. Quiero repasarlo con calma, usando mis apuntes como guía y dejando aquí un registro ordenado de mi avance. Es una manera de seguir aprendiendo y ver con claridad cómo evoluciona mi camino."
 
-- [VER LAS NOTAS](../NOTAS/curso_django.md)
+- [VER LAS NOTAS](../../NOTAS/curso_django.md)
 
 ---
 
